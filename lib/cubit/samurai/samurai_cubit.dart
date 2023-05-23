@@ -1,6 +1,5 @@
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:meta/meta.dart';
 import 'package:samurai_app/res/data/app_images.dart';
 
 part 'samurai_state.dart';
